@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.18053241_ChauNguyenTuanKiet">
-        <activity android:name=".ACtivity2"></activity>
+        <activity android:name=".Activity4"></activity>
+        <activity android:name=".Activity3" />
+        <activity android:name=".ACtivity2" />
         <activity android:name=".KTPM14ATT_Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
