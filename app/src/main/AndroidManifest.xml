@@ -9,17 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.18053241_ChauNguyenTuanKiet">
-        <activity android:name=".Activity4"></activity>
+        <activity android:name=".MusicActivity"></activity>
+        <activity android:name=".BabyActivity" />
+        <activity android:name=".Activity4" />
         <activity android:name=".Activity3" />
         <activity android:name=".ACtivity2" />
         <activity android:name=".KTPM14ATT_Activity" />
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
     </application>
 
 </manifest>
